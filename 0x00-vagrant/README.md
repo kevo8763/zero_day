@@ -1,1 +1,1 @@
-added a uname
+Determine the system's username.
